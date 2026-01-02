@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/karnisingh61">GitHub</a> •
-  <a href="https://karnisingh61.github.io">Portfolio</a>
+  <a href="https://karnisingh61.github.io/karni-singh-portfolio/">Portfolio</a>
 </p>
 
 ---
@@ -52,6 +52,6 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/karnisingh61  
-- Portfolio: https://karnisingh61.github.io  
+- Portfolio: https://karnisingh61.github.io/karni-singh-portfolio/
 
 > *"Build skills so strong that confidence becomes silent."*
