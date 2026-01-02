@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Karni Singh Shekhawat</h1>
+<h3 align="center">AI & Full Stack Developer | Gym Enthusiast 💪</h3>
 
-<!--
-**karnisingh61/karnisingh61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 B.Tech CSE Student  
+- 🤖 Working on **AI Projects & Automation**
+- 💻 Tech Stack: **Python, Java, JavaScript, React, Firebase**
+- 🏋️ Passionate about **Fitness & Discipline**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-blue)
+![Java](https://img.shields.io/badge/-Java-red)
+![React](https://img.shields.io/badge/-React-black)
+![Firebase](https://img.shields.io/badge/-Firebase-orange)
+
+---
+
+### 📌 Featured Projects
+- 🔥 **AI Virtual Try-On**
+- 📱 **Habit Tracker Android App**
+- 🌐 **Personal Portfolio Website**
+
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/karnisingh61
